@@ -3,4 +3,4 @@ GIT Course
 
 
 
-## Priject Notes
+## Project Notes
